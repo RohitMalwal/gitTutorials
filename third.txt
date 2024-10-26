@@ -1,5 +1,0 @@
-this is the version 1.0.0 of my project
-i have modified this file now version 1.0.1
-now version 1.0.2
-now version 1.0.3
-now version 1.1.0
